@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghonim-Ayoub
 - 👀 I’m interested in web programming with JAVA
-- 🌱 I’m currently learning JAVA echosystem
+- 🌱 I’m currently learning JAVA ecosystem
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ghonim.ayoub1@gmail.com
 
